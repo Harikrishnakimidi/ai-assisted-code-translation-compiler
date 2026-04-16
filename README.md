@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Assisted Code Translation Compiler
 
-# Run and deploy your AI Studio app
+## 📌 Project Description
 
-This contains everything you need to run your app locally.
+This project is a web-based application that translates code from one programming language to another using AI concepts.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1uvyRTLdqPfd2UFS9UTnppohYe4jAQctd
+## 🚀 Features
 
-## Run Locally
+* Translate code between programming languages
+* Simple and user-friendly interface
+* Fast and efficient processing
 
-**Prerequisites:**  Node.js
+## 🛠 Tech Stack
+
+* TypeScript
+* HTML
+* CSS
+* Vite
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open terminal in project folder
+3. Run:
+   npm install
+   npm run dev
+
+## 📷 Screenshots
+
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/b2382012-dc30-4ead-966f-d248bff95268" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👨‍💻 Author
+
+Kimidi Harikrishna
