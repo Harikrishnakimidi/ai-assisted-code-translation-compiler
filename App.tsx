@@ -2,7 +2,6 @@
 import React, { useState, useCallback, useRef, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { ProgrammingLanguage, TranslationOptions, TranslationResult, AuthUser } from './types';
-import { translateCode } from './services/geminiService';
 import LanguageSelector from './components/LanguageSelector';
 import CodeEditor from './components/CodeEditor';
 import LoginPage from './components/LoginPage';
